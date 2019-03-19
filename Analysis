@@ -1,0 +1,12 @@
+The urban city types average fare never crosses the $30 threshold but this is made up by maintaining the highest total fares
+and highest total rides by city type.
+
+Although rural areas tend to have the highest average fare, it would be interesting to see how many miles each ride is.
+The urban city drivers are actually at the advantage with having a larger population of riders, they are able to make shorter 
+trips at a more frequent rate. The urban city drivers also have the disadvantage of having more competition (more drivers).
+
+Based on the data if someone were starting out as a driver for Pyber I would suggest to travel to the closest suburban areas.
+Although they only account for 26.3% of total rides they would have less drivers to compete against. As they get the hang of 
+the job I would advise to develop a strategy wherein they pick up riders from suburban areas and take them to urban areas and
+vice versa. While the high fare of the rural areas might be enticing, the infrequency of riders will offset the total money 
+the driver has a chance to make. 
